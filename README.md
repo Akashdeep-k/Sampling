@@ -1,16 +1,5 @@
 # Fraud Detection using Credit Card Transactions
 
-```mermaid
-graph TD
-    A[Initialize] -->|Load Dataset| B(Preprocess Data)
-    B -->|Handle Null Values| C(Analyze Class Distribution)
-    C -->|Apply Sampling Methods| D(Train Models)
-    D -->|Model Training| E(Evaluate Performance)
-    E -->|Assess Accuracy| F(Comparison of Outcomes)
-    F -->|Evaluate Effectiveness| G(Findings and Conclusion)
-    G -->|Conclude Results| H[End]
-```
-
 ## Overview
 
 The project implements the following:
