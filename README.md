@@ -9,6 +9,7 @@ The project implements the following:
   - Stratified Sampling
   - Bootstrap Sampling
   - Systematic Sampling
+  - Cluster Sampling
 
 - **Models:**
   - Decision Tree
