@@ -5,18 +5,17 @@
 The project implements the following:
 
 - **Sampling Techniques:**
-  - Random Sampling
+  - Simple Random Sampling
   - Stratified Sampling
-  - Under-sampling
-  - Over-sampling
-  - SMOTE (Synthetic Minority Over-sampling Technique)
+  - Bootstrap Sampling
+  - Systematic Sampling
 
 - **Models:**
-  - CatBoost
-  - XGBoost
-  - LightGBM
-  - Support Vector Classifier (SVC)
+  - Decision Tree
   - Random Forest
+  - SVM
+  - KNN
+  - XGBoost
 
 ## Dataset
 
